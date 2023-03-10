@@ -8,6 +8,7 @@ A Docker container of MySQL 5.6, optimized for maximum performance and equipped 
 
 ```bash
   git clone https://github.com/joaojkuligowski/HappyMysql.git
+  cd HappyMysql
   cp .env.example .env
   docker-compose up -d
 ```
